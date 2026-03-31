@@ -9,7 +9,7 @@ int main(){
     printf("inserte el segundo numero\n");
     scanf("%d",&b);
 
-    c == a * b;
+    c = a * b;
 
     printf("El producto entre %d y %d es: %d", a, b, c);
 }
